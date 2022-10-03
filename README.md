@@ -31,9 +31,6 @@
 }
 ```
 
-```
----
-
 - **Watch [this video](https://youtu.be/BPqJIl34gm8) to know, how to get the `YT_COOKIE`**
 - **You may use any channel id for `ERROR_LOGS_CHANNEL`, but the bot must be present in the server you are choosing the ID from.**
 - **All the errors your bot faces, will be logged in the `ERROR_LOGS_CHANNEL`**
