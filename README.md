@@ -32,6 +32,8 @@
 ```
 
 ```
+---
+
 - **Watch [this video](https://youtu.be/BPqJIl34gm8) to know, how to get the `YT_COOKIE`**
 - **You may use any channel id for `ERROR_LOGS_CHANNEL`, but the bot must be present in the server you are choosing the ID from.**
 - **All the errors your bot faces, will be logged in the `ERROR_LOGS_CHANNEL`**
@@ -40,6 +42,3 @@
 - **Watch this video to know how to get your `mongoPass`:**
 [![MongoDb Tutorial](http://img.youtube.com/vi/pf-8KA8td88/0.jpg)](http://www.youtube.com/watch?v=pf-8KA8td88 "MongoDB Tutorial")
 - **Don't change the `tenorAPI` else the `gif` command won't work!**
-
-
----
